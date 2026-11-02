@@ -5,6 +5,7 @@ compatibility_date = "2026-11-02"
 [assets]
 directory = "./public"
 binding = "ASSETS"
+
 [[d1_databases]]
 binding = "Spc"
 database_name = "spider_coin"
