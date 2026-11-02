@@ -9,4 +9,15 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "miniapp"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "
+
+{
+  // ...
+  "d1_databases": [
+    {
+      "binding": "Spc",
+      "database_id": "98cdcfb5-774e-4fda-a730-8bf7ecee99a4"
+    }
+  ],
+  // ...
+}"
