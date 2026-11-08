@@ -1,0 +1,8 @@
+name = "spider-coin"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "spc-db"
+database_id = "আপনার-D1-id"
