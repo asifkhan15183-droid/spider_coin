@@ -4,5 +4,4 @@ compatibility_date = "2025-01-01"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "spc-db"
-database_id = "আপনার-D1-id"
+database_id = "08a8ae68-2d1b-4b85-b328-e520245c5e7b"
